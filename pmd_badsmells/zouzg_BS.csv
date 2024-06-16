@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.zzg.mybatis.generator.util","C:\User\arun\Assignment 2_summer\zouzg\mybatis-generator-gui\src\main\java\com\zzg\mybatis\generator\util\DbUtil.java","4","49","Unnecessary qualifier 'java.util': 'Properties' is already in scope because it is imported in this file","Code Style","UnnecessaryFullyQualifiedName"
+"2","com.zzg.mybatis.generator.util","C:\User\arun\Assignment 2_summer\zouzg\mybatis-generator-gui\src\main\java\com\zzg\mybatis\generator\util\DbUtil.java","4","49","Unnecessary qualifier 'java.util': 'Properties' is already in scope because it is imported in this file","Code Style","UnnecessaryFullyQualifiedName"
+"3","com.zzg.mybatis.generator.util","C:\User\arun\Assignment 2_summer\zouzg\mybatis-generator-gui\src\main\java\com\zzg\mybatis\generator\util\DbUtil.java","3","62","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"
